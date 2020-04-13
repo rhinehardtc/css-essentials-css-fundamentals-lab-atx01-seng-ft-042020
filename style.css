@@ -40,7 +40,7 @@ figcaption {
   float: left
 }
 
-div {
+#details div {
   background-color: rgb(200, 80, 80);
   background-color: rgba(200, 80, 80, 0.7);
   width: 150px;
